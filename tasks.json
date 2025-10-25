@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Make a Todo app in Rust",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Start with Capture The Ether",
+    "completed": false
+  }
+]
